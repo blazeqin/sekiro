@@ -1,27 +1,11 @@
 # sekiro
 
-## 交流群
-加微信：（virjar1）拉入微信交流群
-
-## 商业版文档入口
-[商业版](doc/readme.md)
-
 ## 开源版文档入口
 [开源版](open-source-doc/README.md)
 
 ## 答问：Sekiro和NanoHttp的区别
 [关于Sekiro和http转发的优势](qa_for_http_plan.md)
 
-# 多项目友情链接(商务合作+v: virjar1 )
-
-|项目|介绍|地址|
-|--|--|--|
-|echo|分布式代理ip共享集群|https://git.virjar.com/echo/echo|
-|sekiro|基于长链接和代码注入的Android private API暴露框架|https://github.com/virjar/sekiro|
-|ratel|Android重打包注入引擎|https://git.virjar.com/ratel/ratel-doc|
-|zelda|app多开分身的另一种实现|https://github.com/virjar/zelda|
-|geeEtacsufbo|极验滑块js代码脱壳-js控制流平坦化反混淆(最早使用AST解除JS流程混淆的项目)|https://github.com/virjar|
-|thanos|java爬虫调度系统，让java爬虫重回巅峰！！(开发中)|https://github.com/virjar/thanos|
 
 
 SEKIRO 是一个 android 下的 API 服务暴露框架，可以用在 app 逆向、app 数据抓取、android 群控等场景。
@@ -39,6 +23,7 @@ Sekiro 是我之前设计的群控系统 [Hermes](https://gitee.com/virjar/herme
 
 
 
-
+## js websocket长连接
+对应端口号是 5603， 自己配置ssl.
 
 
